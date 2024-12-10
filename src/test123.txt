@@ -1,0 +1,6 @@
+hello despu students
+this is a.txt fileNow 
+i am appending content which is a input from userNow 
+i am appending content which is a input from userNow
+ i am appending content which is a input from user
+hello everyone
